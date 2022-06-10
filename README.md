@@ -1,4 +1,4 @@
-# My first Spring Boot REST API
+# Spring Boot REST API
 
 This is a project that shows you how to build Spring boot REST API that connects to MySQL databse using Spring JdcbTemplate.<br/>
 Database used is called "university" and created by one of my professors. All data in the database is for test purposes only.<br/><br/>
