@@ -112,7 +112,7 @@ We will create a Student REST API, following are the rest end points
 ### Get single student
 
 ```http
-  GET .../student/${id}
+  GET .../student/{id}
 ```
 
 | Parameter | Type     | Description                       |
