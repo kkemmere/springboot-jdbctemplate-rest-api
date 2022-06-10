@@ -180,6 +180,11 @@ We will create a Student REST API, following are the rest end points
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `int` | **Required**. Id of student to delete |
 
+
+# Deleting student with id: 13039 from students"
+![rest](https://github.com/kkemmere/springboot-jdbctemplate-rest-api/blob/main/Screen%20Shot%202022-06-09%20at%2011.17.30%20PM.png)
+<br/>
+
   
 ## Authors
 
