@@ -182,7 +182,7 @@ We will create a Student REST API, following are the rest end points
 
 
 # Deleting student with id: 13039 from students"
-![rest](https://github.com/kkemmere/springboot-jdbctemplate-rest-api/blob/main/Screen%20Shot%202022-06-09%20at%2011.17.30%20PM.png)
+![rest](https://github.com/kkemmere/springboot-jdbctemplate-rest-api/blob/main/0B1BD816-9EE3-4CEC-9415-A58A37C61657_1_105_c.jpeg)
 <br/>
 
   
