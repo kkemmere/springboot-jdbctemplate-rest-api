@@ -8,8 +8,8 @@ Using "Postman" application to Get, Post, Put, Delete operations. Can be impleme
 ## Features
 
 - Create students
-- List all students
-- Fetch single student by id
+- Get all students
+- Get single student by id
 - Update student by id
 - Delete students by id
 
@@ -18,7 +18,7 @@ Using "Postman" application to Get, Post, Put, Delete operations. Can be impleme
 
 We will create a Student REST API, following are the rest end points
 
-### Get all employees
+### Get all students
 
 ```http
   GET .../students
@@ -109,7 +109,7 @@ We will create a Student REST API, following are the rest end points
   ]
 ```
 
-### Get single employee
+### Get single student
 
 ```http
   GET .../student/${id}
@@ -117,7 +117,7 @@ We will create a Student REST API, following are the rest end points
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `id`      | `int` | **Required**. Id of employee to fetch |
+| `id`      | `int` | **Required**. Id of student to fetch |
 
 #### Sample Response
 
