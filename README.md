@@ -16,7 +16,7 @@ Using "Postman" application for Get, Post, Put, Delete operations. Ideally it is
   
 ## API Reference
 
-We will create a Student REST API, following are the rest end points
+Creation of a Student REST API, following are the rest end points
 
 ### Get all students
 
