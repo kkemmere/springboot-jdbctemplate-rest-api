@@ -7,9 +7,9 @@ Using "Postman" application to be able to use Post, Put, Delete operations. Idea
 
 ## Features
 
-- Create students
 - Get all students
 - Get single student by id
+- Post students
 - Update student by id
 - Delete students by id
 
