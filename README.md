@@ -2,7 +2,7 @@
 
 This is a project that shows you how to build Spring boot REST API that connects to MySQL databse using Spring JdcbTemplate.<br/>
 Database used is called "university". All data in the database is for test purposes only.<br/><br/>
-Using "Postman" application to be able to use Post, Put, Delete operations. Ideally it is implemented such that JavaScript/HTML is used on client side instead.
+Using "Postman" application to be able to use Post, Put, Delete operations. Ideally it is implemented such that React/Angular is used on client side instead.
 
 
 ## Features
